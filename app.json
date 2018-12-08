@@ -1,0 +1,7 @@
+{
+  "name": "qiuqiuwenda-server",
+  "description": "qiuqiuwenda-server",
+  "addons": [
+    "cleardb:ignite"
+  ]
+}
